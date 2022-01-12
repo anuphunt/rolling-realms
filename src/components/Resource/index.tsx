@@ -12,7 +12,7 @@ const pickEmoji = (type: string | undefined) => {
     case `heart`:
       return `❤️`
     case `coin`:
-      return `🪙`
+      return `💰`
     case `pumpkin`:
       return `🎃`
     default:
